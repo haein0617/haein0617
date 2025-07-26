@@ -1,25 +1,14 @@
-## Hi there 👋
-<table align="center">
-  <tr>
-    <td align="center">
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ini0617&show_icons=true&theme=default)
-    </td>
-    <td align="center">
-      [![solved.ac](https://mazandi.vercel.app/api?handle=ini0617&type=card)](https://solved.ac/ini0617)
-    </td>
-  </tr>
-</table>
-
-<!--
-**haein0617/haein0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=haein0617&show_icons=true&theme=buefy" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://solved.ac/profile/ini0617">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ini0617" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
