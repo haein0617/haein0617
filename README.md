@@ -1,5 +1,15 @@
 ## Hi there 👋
-[![solved.ac](https://mazandi.vercel.app/api?handle=ini0617)](https://solved.ac/ini0617)
+<table align="center">
+  <tr>
+    <td align="center">
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ini0617&show_icons=true&theme=default)
+    </td>
+    <td align="center">
+      [![solved.ac](https://mazandi.vercel.app/api?handle=ini0617&type=card)](https://solved.ac/ini0617)
+    </td>
+  </tr>
+</table>
+
 <!--
 **haein0617/haein0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
