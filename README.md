@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Solved.ac프로필](https://solvedac.py.run/api/v2/generate_badge.py?user=ini0617&random=1)](https://solved.ac/ini0617)
+[![solved.ac](https://mazandi.vercel.app/api?handle=ini0617)](https://solved.ac/ini0617)
 <!--
 **haein0617/haein0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
