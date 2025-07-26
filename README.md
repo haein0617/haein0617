@@ -1,9 +1,9 @@
 ## Hi there 👋
+[![Solved.ac프로필](https://solvedac.py.run/api/v2/generate_badge.py?user=ini0617)](https://solved.ac/ini0617)
 
 <!--
 **haein0617/haein0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac프로필](https://solvedac.py.run/api/v2/generate_badge.py?user=ini0617)](https://solved.ac/ini0617)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
